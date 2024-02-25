@@ -1,2 +1,2 @@
-# Learning Lab (2024~)
+# Personal Learning Lab (2024~)
 - Cybersecurity
